@@ -2,7 +2,10 @@
 
 ## Case Descriptions
 The project is to analyze customer churn data from a telecom company. The features of the data include clients’ general information, their subscription information, and the churn information. The goal is to find patterns in clients who has churned, build a predictive machine learning model for forecasting churns, and cluster customers by an unsupervised model so the company can tailor each cluster for a better service and a lower churn rate.
-
+## Technology
+Pandas, Python3, Numpy, Seaborn, Matplotlib, Sklearn, Tensorflow
+## Data Science Methods
+Data Manipulation, Data Visualization, GridSearchCV, LogisticRegression, DecisionTree, Keras, PCA
 ## Data Description
 The dataset has 7043 rows and 33 features. There are null values in churn reason columns and Total Charges.
 ![image](https://github.com/user-attachments/assets/1c342b4c-3208-4e1b-9de3-0dd7733a3611)
