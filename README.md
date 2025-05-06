@@ -1,7 +1,7 @@
 # Data Science Project on Telecom Customers Churns with Classification and Clustering Models 
 
 ## Case Descriptions
-The project is to analyze customer churn data from a telecom company. The features of the data include clients’ general information, their subscription information, and the churn information. The goal is to find patterns in clients who has churned, build a predictive machine learning model for forecasting churns, and cluster customers by an unsupervised model so the company can tailor each cluster for a better service and a lower churn rate.
+The project is to analyze customer churn data from a telecom company. The goal is to find patterns in clients who has churned, build a predictive machine learning model for forecasting churns, and cluster customers by an unsupervised model so the company can tailor each cluster for a better service and a lower churn rate.
 ## Technology
 Pandas, Python3, Numpy, Seaborn, Matplotlib, Sklearn, Tensorflow
 ## Data Science Methods
