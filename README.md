@@ -2,6 +2,8 @@
 
 ## Case Descriptions
 The project is to analyze customer churn data from a telecom company. The goal is to find patterns in clients who has churned, build a predictive machine learning model for forecasting churns, and cluster customers by an unsupervised model so the company can tailor each cluster for a better service and a lower churn rate.
+## Data Source
+Data Science Bootcamp. 
 ## Technology
 Pandas, Python3, Numpy, Seaborn, Matplotlib, Sklearn, Tensorflow
 ## Data Science Methods
