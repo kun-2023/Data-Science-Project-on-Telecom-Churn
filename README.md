@@ -2,6 +2,12 @@
 
 ## Case Descriptions
 The project is to analyze customer churn data from a telecom company. The goal is to find patterns in clients who has churned, build a predictive machine learning model for forecasting churns, and cluster customers by an unsupervised model so the company can tailor each cluster for a better service and a lower churn rate.
+
+## Executive summery
+* Clients with short term contracts are not likely stick around. Seniors have a high churn rate due to their retirement nature.
+* For clients who have both phone and internet services but don't have much use of it tend to be singles; they would bail out of the services.
+* For clients who have both internet and phones and also have partners and dependants, they would take full use of the internet; therefore, they tend not to churn even though they have the highest expenses.
+* Clients without internet connection but only a phone services tend to stick to the company since they only have what they need and no unecessaary spendings.
 ## Data Source
 Data Science Bootcamp. 
 ## Technology
@@ -100,11 +106,10 @@ Cluster 0 has the highest churn rate. Probably they bough services they don’t 
 
  
 
-## Conclusion & Recommendations
-*	Clients with short term contracts are not likely stick around. Seniors have a high churn rate. Clients without internet connection and only a phone services tend to stick to the company.
+## Recommendations
 *	For Cluster 0 with the highest churn rate, not all of them need phones or internet. Talk to them and only offer them what they need.
 *	For Cluster 1 with lowest churn rate. They only have phone services, but they have everything they need, and they are staying with the company. Call them see what else they need.
 *	For cluster 2 with medium level of churn rate. They have lots of internet related services, and they are paying a lot, and they are staying. Promote new value added internet services to them every time when there is a new product coming out.
 
-  ## The End
+## The End
 
